@@ -5,4 +5,6 @@
 ### Página desenvolvida com orientação dos professores do curso da DIO.
 
 ## Imagens da Tela do Programa:
-![tela Index]()
+![tela Index](https://github.com/MarVinReisSantos/Site-de-Turismo/blob/main/docs/index1.png?raw=true)
+![tela Index](https://github.com/MarVinReisSantos/Site-de-Turismo/blob/main/docs/index2.png?raw=true)
+![tela Index](https://github.com/MarVinReisSantos/Site-de-Turismo/blob/main/docs/index3.png?raw=true)
